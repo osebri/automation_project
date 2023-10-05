@@ -1,0 +1,70 @@
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Simple measurements & Free fall - Report.pdf",Physics,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\General information - presentation (1).pdf",Physics,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\General information - presentation.pdf",Physics,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\How to prepare a graph.pdf",Physics,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\How to prepare a table.pdf",Physics,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\How to present a calculation example.pdf",Physics,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\repeated measurements.pdf",Physics,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\propagation of errors.pdf",Physics,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\experimental errors.pdf",Physics,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Measuring techniques.pdf",Physics,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\2021 LECTURE 7 (2).pdf",Physics,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\2021 LECTURE 8 (1).pdf",Physics,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\2023_Lecture INTRODUCTION.pdf",Physics,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\2023_Lecture1.pdf",Physics,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\2023_Lecture2.pdf",Physics,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\2023_Lecture3.pdf",Physics,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\LECTURE 3A.pdf",Physics,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\aqueous.pdf",Chemistry,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\equilibrium.pdf",Chemistry,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\thermodynamics2.pdf",Chemistry,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\thermodynamics1.pdf",Chemistry,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\gases.pdf",Chemistry,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\stoichiometry.pdf",Chemistry,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\ami.pdf",Chemistry,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\introduction.pdf",Chemistry,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Écriture des nombres_corrigé expliqué.pdf",French,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Écriture des nombres_exercices.pdf",French,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Abréviation_corrigé expliqué.pdf",French,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Abréviation_exercices (1).pdf",French,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Majuscule_corrigé expliqué.pdf",French,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Majuscule_exercices (1).pdf",French,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Majuscule_diapositives de l'exposé.pdf",French,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Ponctuation_corrigé expliqué.pdf",French,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Ponctuation_exercices.pdf",French,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\CEG2536_Chapitre II_Partie 1_A23.pdf",CA,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\CEG2536_Chapitre II_Partie 2_A23.pdf"CA,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\CEG2536_Chapitre II_Partie 3_A23.pdf"CA,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\CEG2536_Rappels Systèmes Logiques_Partie1.pdf"CA,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\CEG2536_Rappels Systèmes Logiques_Partie2.pdf"CA,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\CEG2536_Rappels Systèmes Logiques_Partie3.pdf"CA,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\CEG2536_Rappels Systèmes Logiques_Partie4.pdf"CA,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\CEG2536_Rappels Systèmes Logiques_Partie5.pdf"CA,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\2023_Lecture1.pdf"CA,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\2023_Lecture2.pdf"CA,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\2023_Lecture3.pdf"CA,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\CEG2536_Chapitre I_A23.pdf"CA,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\2023_Lecture INTRODUCTION.pdf"CA,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\CEG2536 - Instructions générales pour les laboratoires - A23.pdf",CA,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\CEG2536 - Introduction à Altera DE2-115 - A23.pdf",CA,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\CEG2536 - Introduction à la plateforme Altera avec FPGA.pdf",CA,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\using_the_remotelabs_portal EN.pdf",CA,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Utilisation du portail Labo étudiants à distance.pdf",CA,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Lab 06 - SQLite FR1.pdf",SEG,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Lab 05 - Firebase - FR1.pdf",SEG,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Lab 04 - Profile Manager2.pdf",SEG,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Lab 03 - Simple Calculator French1.pdf",SEG,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\SEG2505 - Lab2_Eclipse_OOConcepts1.pdf",SEG,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Lab 01 - Version Control1.pdf",SEG,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\2023_Lecture INTRODUCTION.pdf",SEG,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Pages57-59_BOOK.pdf",SEG,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\github-git-cheat-sheet.pdf",SEG,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Lab 08 - Continuous Integration.pdf",SEG,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Lab 07 - Testing.pdf",SEG,lab
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Chapitre 3.2 - Object Client-Server Framework1.pdf",SEG,class
+"C:\Users\ASUS\OneDrive\Desktop\Training data\Chapitre 3.1 - Reusability1.pdf",SEG,class
+
+
+
+
+
